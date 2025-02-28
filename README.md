@@ -16,7 +16,7 @@
 ---
 
 ## 🛠 Tech Stack  
-- 💻 **Languages:** Python, C++, JavaScript, Assembly (ARM)  
+- 💻 **Languages:** Python, C++, Java, JavaScript, Assembly (ARM)  
 - 🎨 **Graphics & Low-Level Programming:** OpenGL, C++ for Computer Graphics, Raspberry Pi (ARM Assembly)  
 - 🛠 **Development Tools:** GitHub (Source Control), Docker (Containerization), PyQt (GUI Development)  
 - 🗄️ **Databases:** PostgreSQL (PSQL)  
